@@ -17,10 +17,16 @@ step 6 : open the displayed local host port from the terminal
 
 step 7 : In the url add "/docs" at the end to open the fastapi api swager UI
  example: http://127.0.0.1:8000/docs
+ 
+![erf](https://github.com/user-attachments/ass![swager port](https://github.com/user-attachments/assets/2906cbd7-e084-4267-b646-417a8827b127)
+ets/775098d6-6f9f-4e3a-96d2-3efdcc81bed6)
 
 step 8 : click on "try it now" then click "execute"
+![fd](https://github.com/user-attachments/assets/8049064c-4831-4a43-a147-adf1e179dd3c)
 
 step 9 :you can see the responce.
+
+![res groq](https://github.com/user-attachments/assets/4b4e08fa-0b9d-47f9-a442-13a45a17a15b)
 
 step 10: you can also see the generated story in "story.txt" file
   ![gro](https://github.com/user-attachments/assets/7cdce34b-3d39-4ecd-980d-c3fcea51af39)
