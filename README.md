@@ -7,18 +7,18 @@ step 2: open terminal in vs code
 step 3 : enter this command:
   git clone https://github.com/JeromeJaya/groq-hackathon
 
-step 4 : next install all the requiered lib using this command
+step 4 : next install all the requiered lib using this command : 
   pip install -r requirements.txt
 
-step 5 : now run the following command to run the server
+step 5 : now run the following command to run the server : 
   uvicorn main:app --reload
 
 step 6 : open the displayed local host port from the terminal
 
-step 7 : In the url add "/docs" at the end to open the fastapi api swager UI
+step 7 : In the url add "/docs" at the end to open the fastapi api swager >> 
  example: http://127.0.0.1:8000/docs
 
-step 8 : click on "try it now" then click "execute"
+step 8 : click on "try it now" then click "execute":
 ![fd](https://github.com/user-attachments/assets/8049064c-4831-4a43-a147-adf1e179dd3c)
 
 step 9 :you can see the responce.
